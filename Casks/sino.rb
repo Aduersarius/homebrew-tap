@@ -1,6 +1,6 @@
 cask "sino" do
-  version "1.0"
-  sha256 "47a8614dc6b9d7b6af6f8bddc064d1ee9e29712c0b79a53dbf88c4499a821a56"
+  version "1.3.1"
+  sha256 "d97f6aff084541b01341502c1fbd28b2edd7fd7a5592ba33dbb0ab52432369f1"
 
   url "https://github.com/Aduersarius/sino/releases/download/v#{version}/Sino.app.zip"
   name "Sino"
